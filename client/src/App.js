@@ -52,7 +52,7 @@ function App() {
   };
   return (
     <div className="App">
-      <h1>Welcome, Raju</h1>
+      <h1>Welcome USER</h1>
       <h4>Your Tasks</h4>
       {todos.map((todo) => (
         <div
